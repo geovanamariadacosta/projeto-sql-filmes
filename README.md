@@ -1,31 +1,31 @@
-# 🎬 Projeto de Banco de Dados - Filmes
+#Projeto de Banco de Dados - Filmes
 
 Este projeto consiste na criação de um banco de dados relacional para gerenciamento de filmes, desenvolvido durante meus estudos em Análise e Desenvolvimento de Sistemas.
 
-## 📌 Objetivo
+#Objetivo
 Praticar modelagem de banco de dados, criação de tabelas e consultas SQL.
 
-## 🧱 Estrutura
+#Estrutura
 - Filmes
 - Gêneros
 - Atores
 - Elenco
 
-## 🔗 Relacionamentos
+#Relacionamentos
 - Um filme pertence a um gênero
 - Um filme pode ter vários atores
 - Um ator pode participar de vários filmes
 
-## 🛠️ Tecnologias
+#Tecnologias
 - SQL (MySQL)
 
-## 🚀 Funcionalidades
+#Funcionalidades
 - Criação de tabelas
 - Inserção de dados
 - Consultas com JOIN
 - Contagem com GROUP BY
 
-## 💡 Aprendizados
+#Aprendizados
 - Modelagem de banco de dados
 - Relacionamentos entre tabelas
 - Escrita de queries SQL
